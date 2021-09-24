@@ -103,8 +103,9 @@ header .title{
 
  
 
-  .pickup img{
+  .pickup-img{
     width:90%;
+    height: 300px;
     margin-bottom: 10px;
   }
 
